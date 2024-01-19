@@ -29,7 +29,7 @@ The project can be deployed using the following steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Medical_Expenditure_Analysis.git
+   git clone https://github.com/mboya2020/Medical_Expenditure_Analysis.git
    cd Medical_Expenditure_Analysis
    ```
 
@@ -104,7 +104,7 @@ No additional configuration is needed. Ensure the NMES dataset (`nmes.txt`) is i
 
 ## Maintainers
 
-- Patriciah N. Mboya(https://github.com/your-mboya2020)
+- Patriciah N. Mboya(https://github.com/mboya2020)
   - LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
   - Email: mboyapatricia@ymail.com
 
