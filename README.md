@@ -106,7 +106,7 @@ No additional configuration is needed. Ensure the NMES dataset (`nmes.txt`) is i
 
 - Patriciah N. Mboya(https://github.com/your-mboya2020)
   - LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-  - Email: mboyapatricia.com
+  - Email: mboyapatricia@ymail.com
 
 ---
 
