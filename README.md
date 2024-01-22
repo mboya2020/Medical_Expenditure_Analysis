@@ -104,9 +104,9 @@ No additional configuration is needed. Ensure the NMES dataset (`nmes.txt`) is i
 
 ## Maintainers
 
-- [Patriciah N. Mboya] (https://github.com/mboya2020)
-  - (https://www.linkedin.com/in/your-linkedin-profile/)
-  - Email: mboyapatricia@ymail.com
+[Patriciah N. Mboya](https://github.com/mboya2020)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+[Email](mboyapatricia@ymail.com)
 
 ---
 
