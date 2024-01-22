@@ -21,7 +21,7 @@ Welcome to the Medical Expenditure Analysis project! This repository contains th
 
 ## Documentation
 
-For detailed documentation on the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [Medical_Expenditure_Analysis.ipynb](link-to-your-notebook).
+For detailed documentation on the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [Medical_Expenditure_Analysis.ipynb](link-to-your-notebook).[https://github.com/mboya2020/Medical_Expenditure_Analysis/blob/main/Medical_Expenditure_Analysis_.ipynb]
 
 ## Deployment
 
