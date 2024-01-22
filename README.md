@@ -21,7 +21,7 @@ Welcome to the Medical Expenditure Analysis project! This repository contains th
 
 ## Documentation
 
-For detailed documentation on the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [Medical_Expenditure_Analysis.ipynb](link-to-your-notebook).[https://github.com/mboya2020/Medical_Expenditure_Analysis/blob/main/Medical_Expenditure_Analysis_.ipynb]
+For detailed documentation on the analysis, model development, and interpretation, please refer to the Jupyter Notebook: [Medical_Expenditure_Analysis.ipynb](link-to-your-notebook)[https://github.com/mboya2020/Medical_Expenditure_Analysis/blob/main/Medical_Expenditure_Analysis_.ipynb]
 
 ## Deployment
 
@@ -104,8 +104,8 @@ No additional configuration is needed. Ensure the NMES dataset (`nmes.txt`) is i
 
 ## Maintainers
 
-- Patriciah N. Mboya(https://github.com/mboya2020)
-  - LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Patriciah N. Mboya] (https://github.com/mboya2020)
+  - (https://www.linkedin.com/in/your-linkedin-profile/)
   - Email: mboyapatricia@ymail.com
 
 ---
